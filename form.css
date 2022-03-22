@@ -1,0 +1,98 @@
+body{
+    background-color:darkred;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+fieldset{
+    width:20%;
+    margin-top:5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:darkorange;
+    border-radius: 20%;
+    border-style: solid;
+    border-color: black;
+}
+
+.form{
+    color:black;
+    width:90%;
+    font-family: 'Bree Serif', serif;
+    border-style: solid;
+    border-color: white;
+    border-radius: 15%;
+    background-color:darkgray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:5%;
+}
+
+.inp{
+    margin: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    border-radius: 25%;
+    border-style: solid;
+    border-color: white;
+}
+
+.inp-1{
+    margin: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    border-radius: 25%;
+    border-style: solid;
+    border-color:black;
+}
+
+.img{
+    border-style: solid;
+    border-color: black;
+    border-radius: 5%;
+    width:95%;
+    margin-top:5%;
+}
+
+.cards{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width:30%;
+    background-color: darkred;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    word-break: break-all;
+    margin:5%;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+    width:90%;
+    margin-top: 5%;
+    color:black;
+    background-color:whitesmoke;
+    border-style: solid;
+    border-color: black;
+}
+
+
+
+
+
+
+
+
+ 
+
+
+
+
